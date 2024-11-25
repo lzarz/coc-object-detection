@@ -10,3 +10,7 @@ Develop Yolov8 Model to recognizing Base Objects on Clash of Clan. The idea was 
 ## Details
 
 Status : For Portofolio Development
+
+## Sample
+
+![Alt text](/val_batch0_labels.jpg)
