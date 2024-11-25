@@ -1,6 +1,6 @@
 # Clash of Clans Object Detection
 
-![Static Badge](https://img.shields.io/badge/Power_BI-latest-orange)
+![Static Badge](https://img.shields.io/badge/Ultralytics_Yolo-v8-blue)
 
 
 ## Overview
