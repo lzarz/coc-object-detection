@@ -9,4 +9,4 @@ Develop Yolov8 Model to recognizing Base Objects on Clash of Clan. The idea was 
 
 ## Details
 
-Status : For Training
+Status : For Portofolio Development
