@@ -1,0 +1,4 @@
+train: D:\Projects\Youtube\coc\data\images\train
+val: D:\Projects\Youtube\coc\data\images\val
+nc: 16
+names: ['mortar','archer_tower','air_defense','cannon','wizard_tower','town_hall','gold_storage','elixir_storage','gold_mine','elixir_collector','army_camp','laboratory','spell_factory','barracks','builders_hut','clan_castle']
